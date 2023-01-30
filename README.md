@@ -105,7 +105,7 @@
       <img src="https://phpunit.de/img/phpunit.svg" alt="phpunit" width="40" height="40" />
     </a>
     <a href="https://pestphp.com/" target="_blank" rel="noreferrer">
-      <img src="https://pestphp.com/assets/img/small-logo.png" alt="pest" width="40" height="40" />
+      <img src="https://pestphp.com/assets/img/small-logo.png" alt="pest" width="70" height="40" />
     </a>
     <br />
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
