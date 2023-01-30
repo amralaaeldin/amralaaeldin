@@ -134,7 +134,7 @@
     </a>
         &nbsp;&nbsp;&nbsp;
     <a href="https://pestphp.com/" target="_blank" rel="noreferrer">
-      <img src="https://pestphp.com/assets/img/small-logo.png" alt="pest" width="70" height="30" />
+      <img src="https://pestphp.com/assets/img/small-logo.png" alt="pest" width="80" height="30" />
     </a>
     <br />
     <br />
