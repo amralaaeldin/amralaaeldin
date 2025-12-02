@@ -1,6 +1,6 @@
   <h1 align="center">Hi, I'm Amr 👋</h1>
   <h2 align="center">
-    A self-learnt Backend Software Engineer with knowledge in backend and
+    A self-learnt Fullstack Software Engineer with knowledge in backend and
     frontend technologies. I gained my solid knowledge and skills through
     courses, technical books, online programs, scholarships, and I am always
     hoping to learn more. I’d love to use my software development skills to
@@ -8,7 +8,7 @@
   </h2>
 
 
-  - 📄 Check my resume [Amr Alaaeldin - Backend Developer](https://docs.google.com/document/d/1ezoYTBvAbsS7Q6s3s63UndNeYcWt7wMNbGIZ9Iqb8uk/)
+  - 📄 Check my resume [Amr Alaaeldin - Fullstack Developer]([https://docs.google.com/document/d/1ezoYTBvAbsS7Q6s3s63UndNeYcWt7wMNbGIZ9Iqb8uk/](https://docs.google.com/document/d/e/2PACX-1vSs8R-KGFAf3-yKO6bZAouQZyheTwqsPFcnMzqoTON1juWjK4qalXCoUfGvSbl4MFhzvSm68d4hIn-q/pub))
 
 
   <h3 align="left">Connect with me:</h3>
